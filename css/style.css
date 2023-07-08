@@ -783,6 +783,7 @@ h6 {
   -webkit-box-direction: normal;
       -ms-flex-direction: column;
           flex-direction: column;
+  padding-left: 0.3125rem;
 }
 
 .item-store__name {
